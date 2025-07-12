@@ -1,0 +1,12 @@
+
+  {
+    
+    "graphs": {
+      "Studio": "./Studio/studio_agent.py:graph"
+    },
+    "python_version": "3.11",
+    "env": "./.env",
+    "dependencies": [
+      "./Studio/langgraph_app"
+    ]
+  }
